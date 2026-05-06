@@ -31,18 +31,4 @@ const styles = StyleSheet.create({
     marginTop: 40,
     marginBottom: 80,
   },
-  Box1: {
-    flexDirection: 'column',
-    alignItems: 'center',
-    justifyContent: 'center',
-    backgroundColor: 'purple',
-    margin: 50,
-    width: 400,
-    height: 250,
-    borderRadius: 14
-  },
-  Box1Text: {
-    fontSize: 30,
-    color: 'white'
-  },
 });
